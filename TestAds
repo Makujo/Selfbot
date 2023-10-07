@@ -1,0 +1,19 @@
+! Title: Makujo's Test DNS Blocklist
+! Description: Small broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
+! Syntax: AdBlock
+!
+||ads.pubmatic.com^
+||bidder.criteo.com^
+||bidder.h12-media.com^
+||f.h12-media.com^
+||flint.defybrick.com^
+||ghb.adtelligent.com^
+||ib.adnxs.com^
+||log.outbrainimg.com^
+||odb.outbrain.com^
+||prebid.a-mo.net^
+||static.criteo.net^
+||tags.h12-media.com^
+||widgets.outbrain.com^
+||www.google-analytics.com^
+||www.googletagmanager.com^
