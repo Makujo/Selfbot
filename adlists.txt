@@ -18,7 +18,6 @@ app.podcastswaves.com
 podium.b-cdn.net
 .*\.grammarly\.com
 .*\.cloudfront\.net
-
 data.grammarly.com
 prod-data.acquisition.grammarlyaws.com
 extension.femetrics.grammarly.io
