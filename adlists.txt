@@ -26,6 +26,12 @@ clients4.google.com
 mndlvr\.com
 .*\.mndlvr\.com
 optimizationguide-pa.googleapis.com
-
-
+cloudflare.com
+api.dashboard.phoenix-widget.com
+a.nel.cloudflare.com
+phoenix-widget.com
+notify.mgid.com
+mgid.com
+.*\.mgid.com
+*.mgid.com
 finished
