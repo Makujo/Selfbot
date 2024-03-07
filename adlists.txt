@@ -5,3 +5,7 @@ cdnpf.com
 mgid.com
 api.purpleads.io
 cdn.pubfuture-ad.com
+gstatic.com
+beacons2.gvt2.com
+nel.cloudflare.com
+gvt2.com
