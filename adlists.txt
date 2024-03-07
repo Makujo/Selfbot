@@ -3,3 +3,5 @@ d27xxe7juh1us6.cloudfront.net
 adxbid.info
 cdnpf.com
 mgid.com
+api.purpleads.io
+cdn.pubfuture-ad.com
