@@ -21,11 +21,8 @@ podium.b-cdn.net
 data.grammarly.com
 prod-data.acquisition.grammarlyaws.com
 extension.femetrics.grammarly.io
-clients.1.google.com
-clients4.google.com
 mndlvr.com
 *.mndlvr.com
-optimizationguide-pa.googleapis.com
 cloudflare.com
 api.dashboard.phoenix-widget.com
 a.nel.cloudflare.com
