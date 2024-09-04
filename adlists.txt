@@ -47,3 +47,5 @@ cr.adsappier.com
 a1413.dscd.akamai.net
 cr.adsappier.com
 cr.adsappier.com.akamaized.net
+0.datadog.pool.ntp.org
+1.datadog.pool.ntp.org
