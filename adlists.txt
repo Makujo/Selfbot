@@ -49,3 +49,5 @@ cr.adsappier.com
 cr.adsappier.com.akamaized.net
 0.datadog.pool.ntp.org
 1.datadog.pool.ntp.org
+sb.l.google.com
+safebrowsing.googleapis.com
